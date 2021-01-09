@@ -8,6 +8,7 @@
      Step 4) Search option should consists suboptions a)Search by Phone b) Search by Name
   </pre>
   
+  <pre>
   Assignment 2) WordCount and words repeatations
   Step 1) Create a text file consisting atleast 70 lines
   Step 2) Read text file and print each word and its occurance
@@ -15,5 +16,5 @@
   Ex: This is Alivelu and working as lecturer. I am much interested in Python.
   Python - 1
   lecturer - 1
-  
+  </pre>
  </html>
